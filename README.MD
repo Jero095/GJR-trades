@@ -10,7 +10,7 @@ An AI approach to quantitative trading, using Machine learning and deep learning
 
 - Juan Jeronimo Jauregui Prince
 - Ricardo Perez Porras
--Gabriel  Alejandro Rodriguez castillo
+- Gabriel  Alejandro Rodriguez castillo
 
 ## Tecnologías
 
